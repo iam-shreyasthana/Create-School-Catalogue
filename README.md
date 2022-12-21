@@ -28,8 +28,7 @@ Let’s start by making a parent class for Primary, Middle, and High classes. Cr
 
 <br>
 
-2.
-Inside the School class, create an empty constructor() that accepts three parameters. The names of these parameters should match the properties listed in the narrative above.
+2. Inside the School class, create an empty constructor() that accepts three parameters. The names of these parameters should match the properties listed in the narrative above.
 
 
 <br>
