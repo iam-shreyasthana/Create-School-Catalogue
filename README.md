@@ -5,7 +5,7 @@ Let’s put your knowledge of classes to the test by creating a digital school c
 
 We need to create classes for primary and high schools. Because these classes share properties and methods, each will inherit from a parent School class. Our parent and three child classes have the following properties, getters, setters, and methods:
 
-School
+School<br>
 Properties: name (string), level (one of three strings: 'primary', 'middle', or 'high'), and numberOfStudents (number)
 Getters: all properties have getters
 Setters: the numberOfStudents property has a setter
@@ -20,12 +20,9 @@ Includes everything in the School class, plus one additional property
 Properties: sportsTeams (array of strings)
 If you’re looking for a challenge, create the constructor() and getters for the four classes above. Then, use the setter and methods specifications in steps five, six, and seven to finish the project.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
-Tasks
-18/19 Complete
-Mark the tasks as complete by checking them off
-Create ParentSchool Class
+<br>
+Create ParentSchool Class<br>
 1.
 Let’s start by making a parent class for Primary, Middle, and High classes. Create an empty class named School.
 
